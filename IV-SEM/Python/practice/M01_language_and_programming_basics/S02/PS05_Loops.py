@@ -66,3 +66,9 @@ for i in range(0,len(li),1):
     if i % 2 == 0:
         print(li[i], end = ' ') #output : 1 4 6 10
 
+'''
+password retry system(max 3 attempts)
+if password is correct show login successful
+else ask for password 3 times
+once attempts exceed show account leaked
+'''
