@@ -17,7 +17,7 @@ r - return from the fucntion
 q - quit the debugger
 h - help
 3.try and except block - to handle runtime errors and prevent program from crashing. 
-
+himaja
 
 try:
     a = int(input("enter a number:"))
@@ -35,4 +35,4 @@ def add(a,b):
     return a + b
 a = int(input("enter a number:"))
 b = int(input("enter another number:"))
-print(add(a,b ))
+print(add(a,b))
